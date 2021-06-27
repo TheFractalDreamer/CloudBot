@@ -1,0 +1,18 @@
+[Unit]
+Description=DPPBot
+After=network.target
+
+[Service]
+User=dppbot
+Type=simple
+Environment="NLTK_DATA=/usr/bin/dppbot/"
+WorkingDirectory=/usr/bin/dppbot/
+ExecStart=/usr/bin/python3.7 -m cloudbot
+ExecStop=/bin/kill -HUP $MAINPID
+ProtectHome=true
+PrivateUsers=true
+PrivateTmp=true
+ProtectControlGroups=true
+
+[Install]
+WantedBy=multi-user.target
