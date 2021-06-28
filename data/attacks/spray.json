@@ -1,0 +1,13 @@
+{
+	"templates": [
+		"sprays {target} with {liquids}"
+	],
+	"parts": {
+		"liquids": [
+			"water",
+			"lemonade",
+			"milk",
+			"soda"
+		]
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"templates": [
+		"{moods} pats {target}'s {body_parts}"
+	],
+	"parts": {
+		"moods": [
+			"Affectionately",
+			"Aggressively"
+		],
+		"body_parts": [
+			"head",
+			"noggin",
+			"scalp"
+		]
+	}
+}
