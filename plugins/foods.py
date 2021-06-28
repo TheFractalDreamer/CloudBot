@@ -47,6 +47,7 @@ BASIC_FOOD = (
     BasicFood("kebab", "a kebab"),
     BasicFood("cake", "a cake"),
     BasicFood("hotchoc", "hotchoc"),
+    BasicFood("hotchoc", "hotchoc", "hotchoccy"),
     BasicFood("squid", "some squid"),
     # Kept for posterity
     # <Luke> Hey guys, any good ideas for plugins?
