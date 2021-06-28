@@ -1,0 +1,19 @@
+{
+    "templates": [
+        "{action} {user} a {container} of water!"
+    ],
+    "parts": {
+        "action": [
+            "hands",
+            "passes",
+            "throws",
+            "brews",
+            "pours"
+        ],
+        "container": [
+		"tall glass",
+		"short glass",
+		"mason jar"
+	]
+    }
+}
