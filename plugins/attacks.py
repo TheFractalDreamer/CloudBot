@@ -142,6 +142,12 @@ ATTACKS = (
     BasicAttack(
         "newspaper", "<user> - boops <user> on the nose with a newspaper"
     ),
+    BasicAttack(
+        "spray", "<user> - sprays <user> with a random liquid"
+    ),
+    BasicAttack(
+        "headpat", "<user> - headpats <user>"
+    )
 )
 
 

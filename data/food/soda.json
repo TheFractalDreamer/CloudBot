@@ -1,0 +1,25 @@
+{
+    "templates": [
+        "{action} {user} a {soda}!"
+    ],
+    "parts": {
+        "action": [
+            "hands",
+            "passes",
+            "throws",
+            "brews",
+            "pours"
+        ],
+        "soda": [
+		"Dr Pepper",
+		"Diet Dr Pepper",
+		"Coke",
+		"Diet Coke",
+		"Coke zero",
+		"Pepsi",
+		"Diet Pepsi",
+		"Sprite",
+		"Mountain Dew"
+	]
+    }
+}
