@@ -1,0 +1,10 @@
+{
+	"templates": [
+		"boops {target} on the {body_parts} with a newspaper!"
+	],
+	"parts": {
+		"body_parts": [
+			"nose"
+		]
+	}
+}

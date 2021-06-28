@@ -139,6 +139,9 @@ ATTACKS = (
     BasicAttack(
         "stab", "<user> - stabs <user> in a random body part with random weapon"
     ),
+    BasicAttack(
+        "newspaper", "<user> - boops <user> on the nose with a newspaper"
+    ),
 )
 
 
