@@ -15,11 +15,21 @@
 		"Diet Dr Pepper",
 		"Coke",
 		"Diet Coke",
-		"Coke zero",
+		"Coke Zero",
 		"Pepsi",
 		"Diet Pepsi",
 		"Sprite",
-		"Mountain Dew"
+		"Mountain Dew",
+        "root beer",
+        "birch beer",
+        "cream soda",
+        "chocolate soda",
+        "Fanta Orange",
+        "ginger ale",
+        "Jarritos Tamarind",
+        "Cherry Sprite",
+        "Cherry Coke",
+        "Grape soda"
 	]
     }
 }
