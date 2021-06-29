@@ -140,7 +140,10 @@ ATTACKS = (
         "stab", "<user> - stabs <user> in a random body part with random weapon"
     ),
     BasicAttack(
-        "newspaper", "<user> - boops <user> on the nose with a newspaper"
+        "newspaper",
+	"<user> - boops <user> on the nose with a newspaper",
+	"boop",
+	response=RespType.MESSAGE,
     ),
     BasicAttack(
         "spray", "<user> - sprays <user> with a random liquid"
