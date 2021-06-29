@@ -47,6 +47,7 @@ BASIC_FOOD = (
     BasicFood("kebab", "a kebab"),
     BasicFood("cake", "a cake"),
     BasicFood("hotchoc", "hotchoc"),
+    BasicFood("hotchoc", "hotchoc", "hotchoccy"),
     BasicFood("squid", "some squid"),
     # Kept for posterity
     # <Luke> Hey guys, any good ideas for plugins?
@@ -59,6 +60,9 @@ BASIC_FOOD = (
     BasicFood("kosher", "food"),
     BasicFood("birthday", "birthday cake"),
     BasicFood("soda", "soda"),
+    BasicFood("water", "water"),
+    BasicFood("nachos", "nachos"),
+    BasicFood("nightcap", "nightcap")
 )
 
 basic_food_data: Dict[str, Dict[str, Any]] = defaultdict(dict)

@@ -1,10 +1,17 @@
 {
 	"templates": [
-		"boops {target} on the {body_parts} with a newspaper!"
+		"{verbs} {target} on the {body_parts} with a newspaper!"
 	],
 	"parts": {
+		"verbs": [
+			"boops",
+			"bops",
+			"taps"
+		],
 		"body_parts": [
-			"nose"
+			"nose",
+			"forehead",
+			"top of the head"
 		]
 	}
 }

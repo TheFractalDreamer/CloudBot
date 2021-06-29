@@ -1,0 +1,43 @@
+{
+    "templates": [
+        "{verb} {user} {size} nachos {verbed} {meat}, {toppings}, {toppings}, and {toppings}."
+    ],
+    "parts": {
+        "verb": [
+            "hands",
+            "gives",
+            "sends"
+        ],
+        "size": [
+            "a large plate of",
+            "a couple of",
+            "a family size platter of",
+            "some leftovers of"
+        ],
+        "meat": [
+            "ground beef",
+            "shredded chicken",
+            "pulled pork",
+            "impossible meat",
+            "mushrooms",
+            "black beans",
+            "fried tofu"
+        ],
+        "toppings": [
+            "black olives",
+            "sour cream",
+            "melted cheese",
+            "diced tomatoes",
+            "salsa",
+            "fresh chives",
+            "cheese curds",
+            "diced onions"        
+        ],
+        "verbed": [
+            "slathered with",
+            "lightly sprinkled with",
+            "covered in"
+        ]
+
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "templates": [
+        "{action} {user} a {beverage}!"
+    ],
+    "parts": {
+        "action": [
+            "gives",
+            "pours",
+            "passes",
+            "brews"
+        ],
+        "beverage": [
+            "warm mug of cinnamon-covered salep",
+            "cup of warm milk and honey",
+            "glass of spiked eggnog",
+            "steaming mug of decaf coffee",
+            "warm mug of lavender chamomile tea"
+	    ]
+    }
+}

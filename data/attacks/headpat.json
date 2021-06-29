@@ -4,8 +4,8 @@
 	],
 	"parts": {
 		"moods": [
-			"Affectionately",
-			"Aggressively"
+			"affectionately",
+			"aggressively"
 		],
 		"body_parts": [
 			"head",
