@@ -7,13 +7,16 @@
             "hands",
             "passes",
             "throws",
-            "brews",
             "pours"
         ],
         "container": [
             "tall glass",
             "short glass",
-            "mason jar"
+            "mason jar",
+            "beaker",
+            "shot glass",
+            "red solo cup",
+            "graduated cylinder"
         ]
     }
 }
