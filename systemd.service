@@ -1,12 +1,12 @@
 [Unit]
-Description=DPPBot
+Description=cloudbot
 After=network.target
 
 [Service]
-User=dppbot
+User=cloudbot
 Type=simple
-Environment="NLTK_DATA=/usr/bin/dppbot/"
-WorkingDirectory=/usr/bin/dppbot/
+Environment="NLTK_DATA=/usr/bin/cloudbot/"
+WorkingDirectory=/usr/bin/cloudbot/
 ExecStart=/usr/bin/python3.7 -m cloudbot
 ExecStop=/bin/kill -HUP $MAINPID
 ProtectHome=true
