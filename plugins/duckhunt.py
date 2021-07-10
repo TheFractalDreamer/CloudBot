@@ -350,7 +350,7 @@ def deploy_duck(bot):
 
 def hit_or_miss(deploy, shoot):
     """This function calculates if the befriend or bang will be successful."""
-    if shoot - deploy < 1:
+    if shoot - deploy < 0.5:
         return 0.05
 
     if 1 <= shoot - deploy <= 7:
