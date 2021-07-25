@@ -1,0 +1,32 @@
+{
+    "templates": [
+        "{action} {user} a {vessel} of {fruit} juice!"
+    ],
+    "parts": {
+        "action": [
+            "gives",
+            "pours",
+            "passes",
+            "hands",
+            "dispenses"
+        ],
+        "vessel": [
+            "small cup",
+            "red solo cup",
+            "tall glass",
+            "short glass",
+            "large cup",
+            "fancy glass",
+            "cocktail glass",
+            "plastic kid-sized cup"
+        ],
+        "fruit": [
+            "apple",
+            "grape",
+            "grapefruit",
+            "orange",
+            "pineapple",
+            "peach"
+        ]
+    }
+}
