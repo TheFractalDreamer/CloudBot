@@ -114,6 +114,7 @@ ATTACKS = (
         response=RespType.MESSAGE,
     ),
     BasicAttack("hug", "<user> - hugs <user>", response=RespType.MESSAGE),
+    BasicAttack("safehug", "<user> - hugs <user> without chance of death", response=RespType.MESSAGE),
     BasicAttack(
         "highfive",
         "<user> - highfives <user>",
