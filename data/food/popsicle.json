@@ -1,0 +1,36 @@
+{
+    "templates": [
+        "{action} {user} a {quality} {flavor}-flavored popsicle!"
+    ],
+    "parts": {
+        "action": [
+            "gives",
+            "hands",
+            "tosses",
+            "throws",
+            "dispenses"
+        ],
+        "quality": [
+            "frozen",
+            "mostly-frozen",
+            "half-melted",
+            "fully-frozen",
+            "chilly",
+            "cold",
+            "melting",
+            "delicious"
+        ],
+        "flavor": [
+            "raspberry",
+            "cherry",
+            "lime",
+            "grape",
+            "pina-colada",
+            "mango",
+            "peach",
+            "watermelon",
+            "orange",
+            "strawberry"
+        ]
+    }
+}

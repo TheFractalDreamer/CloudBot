@@ -7,29 +7,29 @@
             "hands",
             "passes",
             "throws",
-            "brews",
-            "pours"
+            "pours",
+            "serves"
         ],
         "soda": [
-	    "Dr Pepper",
-	    "Diet Dr Pepper",
-	    "Coke",
-	    "Diet Coke",
-	    "Coke Zero",
-	    "Pepsi",
-	    "Diet Pepsi",
-	    "Sprite",
-	    "Mountain Dew",
+            "Dr. Pepper",
+            "Diet Dr. Pepper",
+            "Coke",
+            "Diet Coke",
+            "Coke Zero",
+            "Pepsi",
+            "Diet Pepsi",
+            "Sprite",
+            "Mountain Dew",
             "root beer",
             "birch beer",
             "cream soda",
             "chocolate soda",
             "Fanta Orange",
-            "Ginger ale",
+            "ginger ale",
             "Jarritos Tamarind",
             "Cherry Sprite",
             "Cherry Coke",
-            "Grape soda"
-	]
+            "grape soda"
+        ]
     }
 }

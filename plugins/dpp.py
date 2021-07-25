@@ -9,3 +9,7 @@ def duckdance(message):
 @hook.command("ricflair", autohelp=False)
 def ricflair(message):
     message("WOOOO! https://media.giphy.com/media/yUI3a7RwLhOFy/giphy.gif");
+
+@hook.command("stitchgif", autohelp=False)
+def stitchgif(message):
+    message("https://gifimage.net/wp-content/uploads/2018/11/spray-water-bottle-gif-2.gif");

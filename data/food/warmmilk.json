@@ -1,0 +1,20 @@
+{
+    "templates": [
+        "{verb} {user} a {vessel} of warm milk."
+    ],
+    "parts": {
+        "verb": [
+            "hands",
+            "gives",
+            "sends",
+            "dispenses"
+        ],
+        "vessel": [
+            "saucer",
+            "large saucer",
+            "small glass",
+            "large glass",
+            "medium-sized glass"
+        ]
+    }
+}
