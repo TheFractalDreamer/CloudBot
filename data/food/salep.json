@@ -1,0 +1,23 @@
+{
+    "templates": [
+        "{action} {user} a {vessel} of {property} salep!"
+    ],
+    "parts": {
+        "action": [
+            "gives",
+            "pours",
+            "passes",
+            "hands"
+        ],
+        "vessel": [
+            "small mug",
+            "warm mug",
+            "large steaming mug"
+        ],
+        "property": [
+            "plain",
+            "cinnamon-covered",
+            "cinnamon-dusted"
+	]
+    }
+}
