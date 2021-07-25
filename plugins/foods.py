@@ -31,8 +31,7 @@ BASIC_FOOD = (
     BasicFood("chicken", "chicken"),
     BasicFood("nugget", "nuggets"),
     BasicFood("pie", "pie"),
-    BasicFood("brekkie", "brekkie", "brekkie", "brekky"),
-    BasicFood("brekkie", "brekkie", "breakfast"),
+    BasicFood("brekkie", "brekkie", "brekkie", "brekky", "breakfast"),
     BasicFood("icecream", "icecream"),
     BasicFood("doobie", "a doobie"),
     BasicFood("wine", "wine"),
@@ -47,8 +46,7 @@ BASIC_FOOD = (
     BasicFood("milkshake", "a milkshake"),
     BasicFood("kebab", "a kebab"),
     BasicFood("cake", "a cake"),
-    BasicFood("hotchoc", "hotchoc"),
-    BasicFood("hotchoc", "hotchoc", "hotchoccy"),
+    BasicFood("hotchoc", "hotchoc", "hotchoc", "hotchoccy"),
     BasicFood("squid", "some squid"),
     # Kept for posterity
     # <Luke> Hey guys, any good ideas for plugins?
@@ -63,6 +61,7 @@ BASIC_FOOD = (
     BasicFood("soda", "soda"),
     BasicFood("water", "water"),
     BasicFood("juice", "juice"),
+    BasicFood("mocktail", "mocktail", "mocktail", "nacocktail"),
     BasicFood("nachos", "nachos"),
     BasicFood("popsicle", "popsicle"),
     BasicFood("salep", "salep"),

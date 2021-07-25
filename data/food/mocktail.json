@@ -1,0 +1,29 @@
+{
+    "templates": [
+        "{verb} {user} a cocktail of {base} with {juice}, {juice}, and {juice}."
+    ],
+    "parts": {
+        "verb": [
+            "hands",
+            "gives",
+            "sends",
+            "mixes",
+            "brews"
+        ],
+        "base": [
+            "orange juice",
+            "lemonade",
+            "Sprite",
+            "cranberry juice"
+        ],
+        "juice": [
+            "some apple juice",
+            "a bit of grenadine",
+            "some bitters",
+            "a dash of peach juice",
+            "some elderflower syrup",
+            "a spot of blackberry syrup",
+            "a bit of rasperry syrup"
+        ]
+    }
+}
