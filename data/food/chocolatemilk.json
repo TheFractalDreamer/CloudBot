@@ -1,0 +1,20 @@
+{
+    "templates": [
+        "{verb} {user} a {vessel} of chocolate milk."
+    ],
+    "parts": {
+        "verb": [
+            "hands",
+            "gives",
+            "sends",
+            "dispenses"
+        ],
+        "vessel": [
+            "small glass",
+            "large glass",
+            "medium-sized glass",
+            "tall glass",
+            "short glass"
+        ]
+    }
+}

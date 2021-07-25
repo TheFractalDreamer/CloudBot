@@ -114,12 +114,21 @@ ATTACKS = (
         response=RespType.MESSAGE,
     ),
     BasicAttack("hug", "<user> - hugs <user>", response=RespType.MESSAGE),
+    BasicAttack("safehug", "<user> - hugs <user> without chance of death", response=RespType.MESSAGE),
     BasicAttack(
         "highfive",
         "<user> - highfives <user>",
         "high5",
         "hi5",
         "highfive",
+        response=RespType.MESSAGE,
+    ),
+    BasicAttack(
+        "safehighfive",
+        "<user> - highfives <user> without chance of injury",
+        "safehigh5",
+        "safehi5",
+        "safehighfive",
         response=RespType.MESSAGE,
     ),
     BasicAttack(
@@ -144,6 +153,7 @@ ATTACKS = (
 	"<user> - boops <user> on the nose with a newspaper",
 	"newspaper",
 	"boop",
+	"bonk",
 	response=RespType.ACTION,
     ),
     BasicAttack(
