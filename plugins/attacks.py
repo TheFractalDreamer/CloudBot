@@ -153,6 +153,7 @@ ATTACKS = (
 	"<user> - boops <user> on the nose with a newspaper",
 	"newspaper",
 	"boop",
+	"bonk",
 	response=RespType.ACTION,
     ),
     BasicAttack(
