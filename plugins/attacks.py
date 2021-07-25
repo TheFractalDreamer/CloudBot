@@ -124,6 +124,14 @@ ATTACKS = (
         response=RespType.MESSAGE,
     ),
     BasicAttack(
+        "safehighfive",
+        "<user> - highfives <user> without chance of injury",
+        "safehigh5",
+        "safehi5",
+        "safehighfive",
+        response=RespType.MESSAGE,
+    ),
+    BasicAttack(
         "fight",
         "<user> - fights <user>",
         "fight",
