@@ -63,6 +63,7 @@ BASIC_FOOD = (
     BasicFood("juice", "juice"),
     BasicFood("mocktail", "mocktail", "mocktail", "nacocktail"),
     BasicFood("nachos", "nachos"),
+    BasicFood("warmmilk", "warmmilk"),
     BasicFood("popsicle", "popsicle"),
     BasicFood("salep", "salep"),
     BasicFood("nightcap", "nightcap")
